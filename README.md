@@ -90,8 +90,15 @@ powershell
 java -version
 javac -version
 
+## Clone / Project Setup
+git clone <repo-url>
+cd Emergency-room-detecting-simulation-
+
 ## Dependency Installation :
 This project does not require any external libraries or package installations.
 It uses only standard Java features provided by the JDK
+## Compile
+javac -d out src\*.java src\model\*.java src\triage\*.java src\allocation\*.java src\exception\*.java src\service\*.java src\simulation\*.java src\util\*.java
+
 ---------------------------------------------------------
 Note: This project is an educational simulation. Its triage rules and priority calculations are simplified and are not intended for real-world medical or clinical decision-making.
