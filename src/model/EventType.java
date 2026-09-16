@@ -1,0 +1,10 @@
+package model;
+// enum class
+public enum EventType {
+
+    PATIENT_ARRIVAL,
+PATIENT_DETERIORATION,
+DOCTOR_AVAILABLE,
+TREATMENT_COMPLETE,
+EMERGENCY_SURGE
+}

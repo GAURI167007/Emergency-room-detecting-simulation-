@@ -1,0 +1,17 @@
+========================================
+          ER SIMULATION REPORT
+========================================
+Total Patients : 7
+Critical       : 3
+Urgent         : 0
+Moderate       : 0
+Normal         : 4
+Completed      : 7
+Deteriorated   : 0
+
+------------- DOCTORS -------------
+Dr. Sharma | Cardiology | Patients Treated: 2
+Dr. Mehta | Neurology | Patients Treated: 1
+Dr. Patel | General | Patients Treated: 2
+Dr. Verma | Pulmonology | Patients Treated: 2
+========================================
