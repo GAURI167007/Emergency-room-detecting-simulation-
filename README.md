@@ -90,4 +90,8 @@ powershell
 java -version
 javac -version
 
+## Dependency Installation :
+This project does not require any external libraries or package installations.
+It uses only standard Java features provided by the JDK
+---------------------------------------------------------
 Note: This project is an educational simulation. Its triage rules and priority calculations are simplified and are not intended for real-world medical or clinical decision-making.
