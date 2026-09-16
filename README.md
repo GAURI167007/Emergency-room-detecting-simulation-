@@ -75,4 +75,19 @@ Emergency-Room-Decision-Simulator/
 ├── README.md
 └── .gitignore
 
+## Setup and Installation
+
+### 1. Prerequisites
+
+In order to run the application, ensure that the following software is installed in your system:
+
+- JDK 17 or above version
+- Git (Only required for cloning the codebase)
+- Terminal (Command Prompt or PowerShell)
+
+The Java installation can be verified by executing:
+powershell
+java -version
+javac -version
+
 Note: This project is an educational simulation. Its triage rules and priority calculations are simplified and are not intended for real-world medical or clinical decision-making.
